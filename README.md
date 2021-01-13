@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### I'm Valkyrie a VR Engineer by day and an overambitious modder by night. 
+#### Founder of aliencow.gg and Lead Developer on Prelude: Online
+
+###Follow me on Twitter
+https://twitter.com/voxelized
+
 <!--
 **voxelizedworld/voxelizedworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
