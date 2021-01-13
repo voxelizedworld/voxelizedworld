@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### I'm Valkyrie a VR Engineer by day and an overambitious modder by night. 
-#### Founder of https:/aliencow.gg and Lead Developer on Prelude: Online
+#### Founder of https://aliencow.gg and Lead Developer on Prelude: Online
 
 #### Oh and I created https://buillsquid.com/
 
